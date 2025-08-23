@@ -10,7 +10,7 @@ Este site foi desenvolvido utilizando:
 
 - **HTML** e **CSS** para estrutura e estilo
 - Animações suaves
-- Organização modular por páginas: Sobre Mim, Educação, Habilidades, Contato e Projetos
+- Organização modular por páginas: Sobre Mim, Educação, Habilidades, Projetos e Contato
 
 ---
 
